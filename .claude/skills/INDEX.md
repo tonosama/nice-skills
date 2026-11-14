@@ -1,0 +1,112 @@
+# Claude Skills 索引（日本語集約）
+
+集約件数: **100** スキル
+
+同名二重は `skills-backup-main` ↔ `config-skills` を優先順位で1つに整理済み。
+
+詳細な類似関係は [SIMILAR.md](./SIMILAR.md) を参照。
+
+| スキルフォルダ | frontmatter name | 元パス |
+|---|---|---|
+| `ab-test-analysis` | `ab-test-analysis` | `.cursor/skills/pm-skills-main/pm-data-analytics/skills/ab-test-analysis` |
+| `accidental-data-loss-prevention` | `accidental-data-loss-prevention` | `.cursor/skills/skills-backup-main/accidental-data-loss-prevention` |
+| `adr-authoring` | `adr-authoring` | `.cursor/skills/skills-backup-main/adr-authoring` |
+| `adr-discovery` | `adr-discovery` | `.cursor/skills/skills-backup-main/adr-discovery` |
+| `adr-governance-orchestrator` | `adr-governance-orchestrator` | `.cursor/skills/skills-backup-main/adr-governance-orchestrator` |
+| `analyze-feature-requests` | `analyze-feature-requests` | `.cursor/skills/pm-skills-main/pm-product-discovery/skills/analyze-feature-requests` |
+| `ansoff-matrix` | `ansoff-matrix` | `.cursor/skills/pm-skills-main/pm-product-strategy/skills/ansoff-matrix` |
+| `beachhead-segment` | `beachhead-segment` | `.cursor/skills/pm-skills-main/pm-go-to-market/skills/beachhead-segment` |
+| `brainstorm-experiments-new` | `brainstorm-experiments-new` | `.cursor/skills/pm-skills-main/pm-product-discovery/skills/brainstorm-experiments-new` |
+| `brainstorm-ideas-new` | `brainstorm-ideas-new` | `.cursor/skills/pm-skills-main/pm-product-discovery/skills/brainstorm-ideas-new` |
+| `brainstorm-okrs` | `brainstorm-okrs` | `.cursor/skills/pm-skills-main/pm-execution/skills/brainstorm-okrs` |
+| `business-analyst` | `business-analyst` | `.cursor/skills/skills-backup-main/business-analyst` |
+| `changelog-automation` | `changelog-automation` | `.cursor/skills/skills-backup-main/changelog-automation` |
+| `changelog-generator` | `changelog-generator` | `.cursor/skills/skills-backup-main/changelog-generator` |
+| `cohort-analysis` | `cohort-analysis` | `.cursor/skills/pm-skills-main/pm-data-analytics/skills/cohort-analysis` |
+| `command-creator` | `command-creator` | `.cursor/skills/skills-backup-main/command-creator` |
+| `commit-work` | `commit-work` | `.cursor/skills/skills-backup-main/commit-work` |
+| `competitive-battlecard` | `competitive-battlecard` | `.cursor/skills/pm-skills-main/pm-go-to-market/skills/competitive-battlecard` |
+| `competitor-analysis` | `competitor-analysis` | `.cursor/skills/pm-skills-main/pm-market-research/skills/competitor-analysis` |
+| `crafting-effective-readmes` | `crafting-effective-readmes` | `.cursor/skills/skills-backup-main/crafting-effective-readmes` |
+| `create-prd` | `create-prd` | `.cursor/skills/pm-skills-main/pm-execution/skills/create-prd` |
+| `customer-journey-map` | `customer-journey-map` | `.cursor/skills/pm-skills-main/pm-market-research/skills/customer-journey-map` |
+| `delegate` | `delegate` | `.cursor/skills/skills-backup-main/delegate` |
+| `docs-architect` | `docs-architect` | `.cursor/skills/skills-backup-main/docs-architect` |
+| `documentation-generation-doc-generate` | `documentation-generation-doc-generate` | `.cursor/skills/skills-backup-main/documentation-generation-doc-generate` |
+| `docx` | `docx` | `.cursor/skills/skills-backup-main/docx` |
+| `draw-io` | `draw-io` | `.cursor/skills/skills-backup-main/draw-io` |
+| `excalidraw` | `excalidraw` | `.cursor/skills/skills-backup-main/excalidraw` |
+| `feedback-mastery` | `feedback-mastery` | `.cursor/skills/skills-backup-main/feedback-mastery` |
+| `find-skills` | `find-skills` | `.agents/skills/find-skills` |
+| `game-changing-features` | `game-changing-features` | `.cursor/skills/skills-backup-main/game-changing-features` |
+| `gemini` | `gemini` | `.cursor/skills/skills-backup-main/gemini` |
+| `git-advanced-workflows` | `git-advanced-workflows` | `.cursor/skills/skills-backup-main/git-advanced-workflows` |
+| `git-pr-workflows-git-workflow` | `git-pr-workflows-git-workflow` | `.cursor/skills/skills-backup-main/git-pr-workflows-git-workflow` |
+| `git-pr-workflows-onboard` | `git-pr-workflows-onboard` | `.cursor/skills/skills-backup-main/git-pr-workflows-onboard` |
+| `git-pr-workflows-pr-enhance` | `git-pr-workflows-pr-enhance` | `.cursor/skills/skills-backup-main/git-pr-workflows-pr-enhance` |
+| `github-actions-node24` | `github-actions-node24` | `.cursor/skills/skills-backup-main/github-actions-node24` |
+| `github-actions-templates` | `github-actions-templates` | `.cursor/skills/skills-backup-main/github-actions-templates` |
+| `gitlab-ci-patterns` | `gitlab-ci-patterns` | `.cursor/skills/skills-backup-main/gitlab-ci-patterns` |
+| `gitops-workflow` | `gitops-workflow` | `.cursor/skills/skills-backup-main/gitops-workflow` |
+| `grammar-check` | `grammar-check` | `.cursor/skills/pm-skills-main/pm-toolkit/skills/grammar-check` |
+| `growth-loops` | `growth-loops` | `.cursor/skills/pm-skills-main/pm-go-to-market/skills/growth-loops` |
+| `gtm-strategy` | `gtm-strategy` | `.cursor/skills/pm-skills-main/pm-go-to-market/skills/gtm-strategy` |
+| `ideal-customer-profile` | `ideal-customer-profile` | `.cursor/skills/pm-skills-main/pm-go-to-market/skills/ideal-customer-profile` |
+| `identify-assumptions-new` | `identify-assumptions-new` | `.cursor/skills/pm-skills-main/pm-product-discovery/skills/identify-assumptions-new` |
+| `internal-comms` | `internal-comms` | `.cursor/skills/skills-backup-main/internal-comms` |
+| `interview-script` | `interview-script` | `.cursor/skills/pm-skills-main/pm-product-discovery/skills/interview-script` |
+| `lean-canvas` | `lean-canvas` | `.cursor/skills/pm-skills-main/pm-product-strategy/skills/lean-canvas` |
+| `market-sizing` | `market-sizing` | `.cursor/skills/pm-skills-main/pm-market-research/skills/market-sizing` |
+| `marketing-ideas` | `marketing-ideas` | `.cursor/skills/pm-skills-main/pm-marketing-growth/skills/marketing-ideas` |
+| `mermaid-diagrams` | `mermaid-diagrams` | `.cursor/skills/skills-backup-main/mermaid-diagrams` |
+| `mermaid-expert` | `mermaid-expert` | `.cursor/skills/skills-backup-main/mermaid-expert` |
+| `metrics-dashboard` | `metrics-dashboard` | `.cursor/skills/pm-skills-main/pm-product-discovery/skills/metrics-dashboard` |
+| `monetization-strategy` | `monetization-strategy` | `.cursor/skills/pm-skills-main/pm-product-strategy/skills/monetization-strategy` |
+| `nano-banana-pro` | `nano-banana-pro` | `.cursor/skills/skills-backup-main/nano-banana-pro` |
+| `night-market-research` | `night-market-research` | `.cursor/skills/night-market-research` |
+| `north-star-metric` | `north-star-metric` | `.cursor/skills/pm-skills-main/pm-marketing-growth/skills/north-star-metric` |
+| `opportunity-solution-tree` | `opportunity-solution-tree` | `.cursor/skills/pm-skills-main/pm-product-discovery/skills/opportunity-solution-tree` |
+| `outcome-roadmap` | `outcome-roadmap` | `.cursor/skills/pm-skills-main/pm-execution/skills/outcome-roadmap` |
+| `pdf` | `pdf` | `.cursor/skills/skills-backup-main/pdf` |
+| `perplexity` | `perplexity` | `.cursor/skills/skills-backup-main/perplexity` |
+| `pestle-analysis` | `pestle-analysis` | `.cursor/skills/pm-skills-main/pm-product-strategy/skills/pestle-analysis` |
+| `planner` | `planner` | `.cursor/skills/skills-backup-main/planner` |
+| `plugin-forge` | `plugin-forge` | `.cursor/skills/skills-backup-main/plugin-forge` |
+| `porters-five-forces` | `porters-five-forces` | `.cursor/skills/pm-skills-main/pm-product-strategy/skills/porters-five-forces` |
+| `positioning-ideas` | `positioning-ideas` | `.cursor/skills/pm-skills-main/pm-marketing-growth/skills/positioning-ideas` |
+| `postmortem-writing` | `postmortem-writing` | `.cursor/skills/skills-backup-main/postmortem-writing` |
+| `pptx` | `pptx` | `.cursor/skills/skills-backup-main/pptx` |
+| `pre-mortem` | `pre-mortem` | `.cursor/skills/pm-skills-main/pm-execution/skills/pre-mortem` |
+| `pricing-strategy` | `pricing-strategy` | `.cursor/skills/pm-skills-main/pm-product-strategy/skills/pricing-strategy` |
+| `prioritization-frameworks` | `prioritization-frameworks` | `.cursor/skills/pm-skills-main/pm-execution/skills/prioritization-frameworks` |
+| `prioritize-assumptions` | `prioritize-assumptions` | `.cursor/skills/pm-skills-main/pm-product-discovery/skills/prioritize-assumptions` |
+| `prioritize-features` | `prioritize-features` | `.cursor/skills/pm-skills-main/pm-product-discovery/skills/prioritize-features` |
+| `product-name` | `product-name` | `.cursor/skills/pm-skills-main/pm-marketing-growth/skills/product-name` |
+| `product-strategy` | `product-strategy` | `.cursor/skills/pm-skills-main/pm-product-strategy/skills/product-strategy` |
+| `product-vision` | `product-vision` | `.cursor/skills/pm-skills-main/pm-product-strategy/skills/product-vision` |
+| `release-notes` | `release-notes` | `.cursor/skills/pm-skills-main/pm-execution/skills/release-notes` |
+| `requirements-clarity` | `requirements-clarity` | `.cursor/skills/skills-backup-main/requirements-clarity` |
+| `researcher` | `researcher` | `.cursor/skills/skills-backup-main/researcher` |
+| `retro` | `retro` | `.cursor/skills/pm-skills-main/pm-execution/skills/retro` |
+| `sentiment-analysis` | `sentiment-analysis` | `.cursor/skills/pm-skills-main/pm-market-research/skills/sentiment-analysis` |
+| `session-handoff` | `session-handoff` | `.cursor/skills/skills-backup-main/session-handoff` |
+| `skill-creator` | `skill-creator` | `.cursor/skills/skills-backup-main/skill-creator` |
+| `skill-judge` | `skill-judge` | `.cursor/skills/skills-backup-main/skill-judge` |
+| `skill-repair` | `skill-repair` | `.cursor/skills/skills-backup-main/skill-repair` |
+| `sprint-plan` | `sprint-plan` | `.cursor/skills/pm-skills-main/pm-execution/skills/sprint-plan` |
+| `stakeholder-map` | `stakeholder-map` | `.cursor/skills/pm-skills-main/pm-execution/skills/stakeholder-map` |
+| `startup-financial-modeling` | `startup-financial-modeling` | `.cursor/skills/skills-backup-main/startup-financial-modeling` |
+| `startup-strategy-orchestrator` | `startup-strategy-orchestrator` | `.cursor/skills/skills-backup-main/startup-strategy-orchestrator` |
+| `strategy-red-team` | `strategy-red-team` | `.cursor/skills/pm-skills-main/pm-execution/skills/strategy-red-team` |
+| `summarize-interview` | `summarize-interview` | `.cursor/skills/pm-skills-main/pm-product-discovery/skills/summarize-interview` |
+| `summarize-meeting` | `summarize-meeting` | `.cursor/skills/pm-skills-main/pm-execution/skills/summarize-meeting` |
+| `survey-design` | `survey-design` | `.cursor/skills/pm-skills-main/pm-market-research/skills/survey-design` |
+| `swot-analysis` | `swot-analysis` | `.cursor/skills/pm-skills-main/pm-product-strategy/skills/swot-analysis` |
+| `team-collaboration-standup-notes` | `team-collaboration-standup-notes` | `.cursor/skills/skills-backup-main/team-collaboration-standup-notes` |
+| `tutorial-engineer` | `tutorial-engineer` | `.cursor/skills/skills-backup-main/tutorial-engineer` |
+| `user-personas` | `user-personas` | `.cursor/skills/pm-skills-main/pm-market-research/skills/user-personas` |
+| `user-stories` | `user-stories` | `.cursor/skills/pm-skills-main/pm-execution/skills/user-stories` |
+| `value-proposition` | `value-proposition` | `.cursor/skills/pm-skills-main/pm-product-strategy/skills/value-proposition` |
+| `writing-clearly-and-concisely` | `writing-clearly-and-concisely` | `.cursor/skills/skills-backup-main/writing-clearly-and-concisely` |
+| `wwas` | `wwas` | `.cursor/skills/pm-skills-main/pm-execution/skills/wwas` |
+| `xlsx` | `xlsx` | `.cursor/skills/skills-backup-main/xlsx` |

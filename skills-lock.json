@@ -1,0 +1,59 @@
+{
+  "version": 2,
+  "skills": {
+    "codebase-design": {
+      "source": "eralmansouri/skills",
+      "sourceType": "github",
+      "skillPath": "skills/codebase-design/SKILL.md",
+      "computedHash": "4fb6e9b3f3c5b0b62ed957dad744d4941eb6559ec675939fc3c3e19dbc241724"
+    },
+    "design-review": {
+      "source": "eralmansouri/skills",
+      "sourceType": "github",
+      "skillPath": "skills/design-review/SKILL.md",
+      "computedHash": "44943d123058de0a4b60146420ebce13d9d054d42f946c14ef6bcf5f2fc4dae5"
+    },
+    "domain-driven-design": {
+      "source": "eralmansouri/skills",
+      "sourceType": "github",
+      "skillPath": "skills/domain-driven-design/SKILL.md",
+      "computedHash": "c23792880142d4c3f4887e25154252fd070ac9687fd65cd660395f910e77cd2a"
+    },
+    "event-driven-systems": {
+      "source": "eralmansouri/skills",
+      "sourceType": "github",
+      "skillPath": "skills/event-driven-systems/SKILL.md",
+      "computedHash": "119e0e67ab38fa385103de9d39226baf5ea480c049ec1e107c965efe110d3cb0"
+    },
+    "event-sourcing": {
+      "source": "eralmansouri/skills",
+      "sourceType": "github",
+      "skillPath": "skills/event-sourcing/SKILL.md",
+      "computedHash": "76340f7384af4aa0175c59c233c7f1da717c50f6083c2be84a027dfcef3dcec5"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "computedHash": "7bc223e2aafbdbf6e50ea243ba6ef67fe432bb069ab439fea0390795dac0bf7f"
+    },
+    "persistence-design": {
+      "source": "eralmansouri/skills",
+      "sourceType": "github",
+      "skillPath": "skills/persistence-design/SKILL.md",
+      "computedHash": "2a57f0b8da7e9c2782a44f66814c41ac231740dd915b39a69647b4a735facc83"
+    },
+    "service-boundaries": {
+      "source": "eralmansouri/skills",
+      "sourceType": "github",
+      "skillPath": "skills/service-boundaries/SKILL.md",
+      "computedHash": "c38af27125975ad014380d32287cc67a2fc051d450c180afa839d139a61a0fcf"
+    },
+    "vertical-slice-architecture": {
+      "source": "eralmansouri/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vertical-slice-architecture/SKILL.md",
+      "computedHash": "54d26f1a3386fe4dd86b3a8f3f54d531438070f2a5c9b3c52c777b4eba84fc20"
+    }
+  }
+}
